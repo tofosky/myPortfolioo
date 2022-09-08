@@ -43,7 +43,7 @@ link:'https://tofosky.github.io/project1/',
 {img:`./pics/Capture.PNG`,
 address:` bank ussd transcations`,
 info:'this project was built with html, css, bootsrap and javascript',
-link:'https://ibro09.github.io/color-flipper/',
+link:'https://tofosky.github.io/bankUssdTransaction/',
 },
 {img:`./pics/ejoy (2).png`,
 address:`company's website`,
@@ -51,16 +51,12 @@ info:'this project was built with wordpress',
 link:'https://enjoynigeria.org/',
 
 },
-{img:`./pics/ejoy (2).png`,
-address:`emdyee collection's store`,
-info:'this project was built with html, css, wow.js, bootstrap and javascript',
-link:'https://ibro09.github.io/shoes-store/',
+{img:`./pics/colorflipper.png`,
+address:`color flipper`,
+info:'this project was built with html,css,js',
+link:'https://tofosky.github.io/backgroundColorChanger//',
+
 },
-{img:`./pics/ejoy (2).png`,
-address:`scroll project`,
-info:'this project was built with html, css, bootstrap and javascript',
-link:'https://ibro09.github.io/scroll-project/',
-}
 ]
 
 console.log();
